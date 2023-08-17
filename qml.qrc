@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuItemX.qml</file>
+        <file>MenuX.qml</file>
+        <file>Child_2.qml</file>
+    </qresource>
+</RCC>
